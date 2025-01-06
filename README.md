@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0c2a4a23-9d4c-47f2-9a94-17673ae6081d)## Hi there 👋
+## Hi there 👋
 
 ### 잔디
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chiyo-an&theme=dark)
