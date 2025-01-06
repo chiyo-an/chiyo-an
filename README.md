@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-### 잔디
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=chiyo-an&theme=dark)
 <!--
 **chiyo-an/chiyo-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
