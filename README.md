@@ -1,3 +1,8 @@
+**픽셀과 로직 사이의 균형을 만드는 프론트엔드 개발자**
+
+📧 [chiyoawesome@gmail.com](mailto:chiyoawesome@gmail.com)  
+🌐 [aaaaaaa.dev](https://aaaaaaa.dev) ↗
+
 ## ✦ Tech Stack
 **Frontend**  
 <p>
