@@ -12,5 +12,5 @@
 
 **Tools**  
 <p>
- <img src="https://skillicons.dev/icons?i=figma,framer,photoshop,vscode,github,notion&perline=7" height="32"/>
+ <img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,github,notion&perline=6" height="32"/>
 </p>
