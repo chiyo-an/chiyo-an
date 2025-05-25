@@ -1,25 +1,16 @@
-**픽셀과 로직 사이의 균형을 만드는 프론트엔드 개발자**
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+AnJeongEun___&font=Fira%20Code&size=18&color=FFFFFF&vCenter=true)
 
-📧 [chiyoawesome@gmail.com](mailto:chiyoawesome@gmail.com)  
+📧 [chiyoawesome@gmail.com](mailto:chiyoawesome@gmail.com) ↗  
 🌐 [aaaaaaa.dev](https://aaaaaaa.dev) ↗
 
+<br>
+
 ## ✦ Tech Stack
-**Frontend**  
-<p>
- <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nextjs&perline=4" height="32"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,javascript,typescript,nextjs" height="24"/>
+<img src="https://skillicons.dev/icons?i=sass,tailwindcss,bootstrap" height="24"/>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,github,notion" height="24"/>
 
-**Styling**  
-<p>
- <img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap&perline=5" height="32"/>
-</p>
-
-**Tools**  
-<p>
- <img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,github,notion&perline=6" height="32"/>
-</p>
-
-<br><br>
+<br>
 
 ## ✦ GitHub Stats
 <div align="left"> 
