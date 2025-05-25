@@ -18,6 +18,6 @@
 
 ## 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiyo-an&show_icons=true&theme=tokyonight" height="180" /> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiyo-an&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiyo-an&layout=compact&theme=tokyonight" height="150" /> &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=chiyo-an&show_icons=true&theme=tokyonight" height="150" />
 </div>
