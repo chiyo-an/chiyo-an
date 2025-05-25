@@ -1,5 +1,4 @@
-## Tech Stack
-
+## 🛠️ Tech Stack
 **Frontend**  
 <p>
  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nextjs&perline=4" height="32"/>
@@ -15,9 +14,10 @@
  <img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,github,notion&perline=6" height="32"/>
 </p>
 
-## 📊 GitHub Stats
+<br><br>
 
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiyo-an&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiyo-an&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiyo-an&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiyo-an&layout=compact&theme=tokyonight" height="180" />
 </div>
