@@ -1,7 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+AnJeongEun___&font=Fira%20Code&size=18&color=FFFFFF&vCenter=true)
 
 📧 [chiyoawesome@gmail.com](mailto:chiyoawesome@gmail.com) ↗  
-🌐 [aaaaaaa.dev](https://aaaaaaa.dev) ↗
+🌐 [aaaaaaa.dev](https://aaaaaaa.dev) ↗  
+🌐 [until.blog/@chiyoawesome](https://until.blog/@chiyoawesome) ↗
 
 <br>
 
