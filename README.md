@@ -1,10 +1,16 @@
 ## Tech Stack
 
-**Frontend**
-![Frontend](https://skillicons.dev/icons?i=react,javascript,typescript,nextjs&perline=4)
+**Frontend**  
+<p>
+ <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript&theme=light&perline=4" height="35"/>
+</p>
 
-**Styling**
-![Styling](https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap&perline=5)
+**Styling**  
+<p>
+ <img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap&theme=light&perline=5" height="35"/>
+</p>
 
-**Tools**
-![Tools](https://skillicons.dev/icons?i=figma,vscode,github,notion&perline=5)
+**Tools**  
+<p>
+ <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,notion&theme=light&perline=5" height="35"/>
+</p>
