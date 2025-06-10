@@ -1,16 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+AnJeongEun___&font=Fira%20Code&size=18&color=FFFFFF&vCenter=true)
-
-<div align="left">
-  <a href="mailto:chiyoawesome@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/✉️%20EMAIL-555555?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://aaaaaaa.dev" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/🏡%20PORTFOLIO-555555?style=for-the-badge&logoColor=white"/>
-  </a>
-</div>
-
-<br>
-
 ## ✦ Tech Stack
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs" height="28"/>
