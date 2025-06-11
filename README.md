@@ -1,6 +1,6 @@
 ## ✦ Tech Stack
 <div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs" height="28"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=javascript,typescript,react" height="28"/>
 </div>
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap" height="28"/>
