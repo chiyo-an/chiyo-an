@@ -6,7 +6,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap" height="28"/>
 </div>
 <div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,notion" height="28"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma,photoshop" height="28"/>
 </div>
 
 <br>
