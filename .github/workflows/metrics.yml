@@ -1,9 +1,8 @@
 name: Metrics
-
 on:
   schedule:
-    - cron: "0 0 * * *"   # 매일 UTC 0시(한국 9시)에 실행
-  workflow_dispatch:       # 필요 시 수동 실행
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -13,14 +12,14 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate GitHub metrics
+      - name: Generate GitHub metrics (Languages only)
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }} 
+          token: ${{ secrets.METRICS_TOKEN }}
           user: chiyo-an
 
           template: classic
-          base: header, activity, repositories, metadata
+          base: ""
           config_timezone: Asia/Seoul
 
           plugin_languages: yes
@@ -29,4 +28,4 @@ jobs:
           plugin_languages_details: percentage
 
           output_action: commit
-          output_path: metrics.svg
+          filename: metrics.svg
