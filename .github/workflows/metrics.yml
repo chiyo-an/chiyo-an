@@ -20,3 +20,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_details: percentage
+
+          output_action: commit
+          output_path: metrics.svg
